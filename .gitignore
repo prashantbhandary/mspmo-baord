@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# KiCad temporary and local files
+*.lck
+*.bak
+*.kicad_prl
+fp-info-cache
+*-backups/
+.history/
